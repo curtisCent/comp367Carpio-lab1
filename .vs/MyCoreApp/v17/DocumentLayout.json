@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Pages\\Index.cshtml",
               "ToolTip": "C:\\Users\\curti\\source\\repos\\MyCoreApp\\Pages\\Index.cshtml",
               "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-31T22:49:20.959Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T22:47:21.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T22:47:21.866Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "Pages\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T22:46:30.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T22:46:30.102Z"
             }
           ]
         }
